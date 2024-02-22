@@ -1,7 +1,7 @@
 # MCR3U-Functions-University-Notes
 
-This repository contains the materials for the MCR3U (Grade 11 Functions) course, a foundational mathematics course offered at the university level. The course is designed to provide students with a comprehensive understanding of functions, equations, and their applications in various fields such as engineering, science, and economics.
-
+Welcome to the MCR3U Functions University Course repository! These meticulously crafted notes and materials for the MCR3U (Grade 11 Functions) course were created by me using LaTeX language on Overleaf. Whether you're a student seeking a deeper understanding of functions and equations or an educator looking for teaching resources, you'll find everything you need here. Explore the course content, objectives, assessments, and unit order with suggested times. Feel free to contribute and enhance these materials to make learning even more engaging and accessible for everyone. Let's excel together in the fascinating world of mathematics! <br> <br>
+Visit the Overleaf on [MCR3U-Functions-University-Notes](https://www.overleaf.com/read/gdjhmfmkkvzf#a308cb) :)
 ## Course Content
 
 The course covers the following topics:
